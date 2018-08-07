@@ -6,3 +6,4 @@ set(['orange', 'pear', 'apple', 'banana'])
 True
 'crabgrass' in fruit
 False
+print("my name")
